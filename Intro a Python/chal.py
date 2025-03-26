@@ -1,0 +1,5 @@
+x = str(input('Digite algo: '))
+print('X é alfabetico? ', x.isalpha())
+print('X é convertivel para numero? ', x.isnumeric())
+print('X é inteiramente maiusculo?', x.isupper())
+print(type(x))
