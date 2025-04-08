@@ -68,7 +68,7 @@ pyautogui.press("tab")
 pyautogui.write(custo)
 pyautogui.press("tab")
 pyautogui.write(obs)
-pyautogui.press("tab")  
+pyautogui.press("tab")
 pyautogui.press("enter")
 
 # Passo 5: Repetir para todos os produtos
